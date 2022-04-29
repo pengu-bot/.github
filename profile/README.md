@@ -1,5 +1,5 @@
 # Welcome to the PenguBot repo!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)![](https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true?style=flat)![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
+https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true&style=flat![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
 
 
 Table of Contents:
