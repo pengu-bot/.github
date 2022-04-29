@@ -1,5 +1,6 @@
 # Welcome to the PenguBot repo!
-[![Run on Repl.it](https://repl.it/badge/github/pengu-bot/pengu-bot)](https://repl.it/github/pengu-bot/pengu-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)![](https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true?style=flat)![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
+
 
 Table of Contents:
 * [Inviting](/profile/README.md#inviting)
