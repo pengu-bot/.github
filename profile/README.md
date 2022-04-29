@@ -1,5 +1,5 @@
 # Welcome to the PenguBot repo!
-https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true&style=flat![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
+![](https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true&style=flat)![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
 
 
 Table of Contents:
