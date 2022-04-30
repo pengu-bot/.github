@@ -2,6 +2,7 @@
 ![](https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true&style=flat)
 ![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
 ![Discord](https://img.shields.io/discord/969904857265897512)
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m790877470-8d9040f287acc964d2717ab2)
 
 
 Table of Contents:
