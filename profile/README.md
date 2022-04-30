@@ -1,8 +1,10 @@
 # Welcome to the PenguBot repo!
-![](https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true&style=flat)
-![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
 ![Discord](https://img.shields.io/discord/969904857265897512)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m790877470-8d9040f287acc964d2717ab2)
+![](https://img.shields.io/github/issues/pengu-bot/pengu-bot)
+
+![](https://dcbadge.vercel.app/api/shield/904658397268414485?bot=true&style=flat)
+![](https://dcbadge.vercel.app/api/shield/710738214000001075?style=flat)
 
 
 Table of Contents:
@@ -30,5 +32,6 @@ Then, enter the server you want to add the bot to on the pop-up window.
 If the bot isn't in any of your mutual servers then click the button below to add it
 
 ## Support
+
 
 ## FAQ
