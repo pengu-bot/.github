@@ -36,7 +36,7 @@ If you need any help or if your question isn't answered in the FAQ below, then j
 <details open>
 <summary>Why is the bot not responding?</summary>
 <br>
-If the bot is not responding, then check our status page
+If the bot is not responding, then check if the bot has the correct permissions, join our discord server  [here](https://discord.gg/qW9mktKVBQ) or check our status page [here](https://pengu-bot.github.io/status/)
 </details>
 <details>
 <summary>Want to ruin the surprise?</summary>
